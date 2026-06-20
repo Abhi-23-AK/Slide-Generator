@@ -1,0 +1,105 @@
+====================================================
+Timestamp:
+2026-06-13 23:53:53
+
+Video URL:
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Topic:
+Machine Learning Lifecycle
+
+Transcript Length:
+2089
+
+Summary Length:
+2089
+
+Summary Preview:
+[♪♪♪] ♪ We're no strangers to love ♪ ♪ You know the rules
+and so do I ♪ ♪ A full commitment's
+what I'm thinking of ♪ ♪ You wouldn't get this
+from any other guy ♪ ♪ I just wanna tell you
+how I'm feeling ♪ ♪ Gotta make you understand ♪ ♪ Never gonna give you up ♪ ♪ Never gonna let you down ♪ ♪ Never gonna run around
+and desert you ♪ ♪ Never gonna make you cry ♪ ♪ Never gonna say goodbye ♪ ♪ Never gonna tell a lie
+and hurt you ♪ ♪ We've known each other
+for so long ♪ ♪ Your heart's been aching
+but you're too shy to say it ♪ ♪ Inside we both know
+what's been going ♪ ♪ We know the game
+and we're gonna play it ♪ ♪ And if you ask me
+how I'm feeling ♪ ♪ Don't tell me
+you're too blind to see ♪ ♪ Never gonna give you up ♪ ♪ Never gonna let you down ♪ ♪ Never gonna run around
+and desert you ♪ ♪ Never gonna make you cry ♪ ♪ Never gonna say goodbye ♪ ♪ Never gonna tell a lie
+and hurt you ♪ ♪ Never gonna give you up ♪ ♪ Never gonna let you down ♪ ♪ Never gonna run around
+and desert you ♪ ♪ Never gonna make you cry ♪ ♪ Never gonna say goodbye ♪ ♪ Never gonna tell a lie
+and hurt you ♪ ♪ (Ooh, give you up) ♪ ♪ (Ooh, give you up) ♪ ♪ Never gonna give,
+never gonna give ♪ ♪ (Give you up) ♪ ♪ Never gonna give,
+never gonna give ♪ ♪ (Give you up) ♪ ♪ We've known each other
+for so long ♪ ♪ Your heart's been aching
+but you're too shy to say it ♪ ♪ Inside we both know
+what's been going ♪ ♪ We know the game
+and we're gonna play it ♪ ♪ I just wanna tell you
+how I'm feeling ♪ ♪ Gotta make you understand ♪ ♪ Never gonna give you up ♪ ♪ Never gonna let you down ♪ ♪ Never gonna run around
+and desert you ♪ ♪ Never gonna make you cry ♪ ♪ Never gonna say goodbye ♪ ♪ Never gonna tell a lie
+and hurt you ♪ ♪ Never gonna give you up ♪ ♪ Never gonna let you down ♪ ♪ Never gonna run around
+and desert you ♪ ♪ Never gonna make you cry ♪ ♪ Never gonna say goodbye ♪ ♪ Never gonna tell a lie
+and hurt you ♪ ♪ Never gonna give you up ♪ ♪ Never gonna let you down ♪ ♪ Never gonna run around
+and desert you ♪ ♪ Never gonna make you cry ♪ ♪ Never gonna say goodbye ♪ ♪ Never gonna tell a lie
+and hurt you ♪
+====================================================
+====================================================
+Timestamp:
+2026-06-13 23:57:48
+
+Video URL:
+https://youtu.be/uMzUB89uSxU?si=teDI3dQLbOJxvL3q
+
+Topic:
+AI
+
+Transcript Length:
+4243
+
+Summary Length:
+4243
+
+Summary Preview:
+it's a weekend and John decided to watch the latest movie recommended by Netflix at his friend's place before heading out he asked Siri about the weather and realized it would rain so he decided to take his Tesla for the long journey and switched to autopilot on the highway after coming home from the eventful day he started wondering how technology has made his life easy he did some research on the internet and found out that Netflix Siri and Tesla are all using AI so what is AI AI or artificial intelligence is nothing but making computers-based machines think and act like humans artificial intelligence is not a new term John McCarthy a computer scientist coined the term artificial intelligence back in 1956 but it took time to evolve as it demanded heavy computing power artificial intelligence is not confined to just movie recommendations and virtual assistants broadly classifying there are three types of AI artificial narrow intelligence also called weak AI is the stage where machines can perform a specific task Netflix Siri chat Bots spatial recommendation systems are all examples of artificial narrow intelligence next up we have artificial general intelligence referred to as an intelligent agent's capacity to comprehend or pick up any intellectual skill that a human can we are halfway in a successfully implementing this space IBM's Watson supercomputer and gpt3 fall under this category and lastly artificial super intelligence it is the stage where machines surpass human intelligence you might have seen this in movies and imagined how the world would be if machines occupied fascinated by this John did more research and found out that machine learning deep learning and natural language processing are all connected with artificial intelligence machine learning a subset of AI is the process of automating and enhancing how computers learn from their experiences without human health machine learning can be used in email spam detection medical diagnosis Etc deep learning can be considered a subset of machine learning it is a field that is based on learning and improving on its own by examining computer algorithms while machine learning uses simpler Concepts deep learning works with artificial neural networks which are designed to imitate the human brain this technology can be applied in face recognition speech recognition and many more applications natural language processing popularly known as NLP can be defined as the ability of machines to learn human language and translate it chat Bots fall under this category artificial intelligence is advancing in every crucial field like healthcare education robotics banking e-commerce and the list goes on like in healthcare AI is used to identify diseases helping healthcare service providers and their patients make better treatment and lifestyle decisions coming to the education sector AI is helping teachers automate grading organizing and facilitating parent Guardian conversations in robotics ai-powered robo
+====================================================
+====================================================
+Timestamp:
+2026-06-14 12:37:33
+
+Video URL:
+https://youtu.be/Yq0QkCxoTHM?si=oTLgu1YPxgIcFuUt
+
+Topic:
+Google Ai course
+
+Transcript Length:
+9248
+
+Summary Length:
+9248
+
+Summary Preview:
+if you don't have a technical background but you still want to learn the basics of artificial intelligence stick around because we were distilling Google's 4-Hour AI course for beginners into just 10 minutes I was initially very skeptical because I thought the course would be too conceptual we're all about practical tips on this channel and knowing Google the course might just disappear after 1 hour but I found the underlying Concepts actually made me better at using tools like Chachi BT and Google bard and cleared up a bunch of misconceptions I didn't know I had about AI machine learning and large language models so starting with the broadest possible question what is artificial intelligence it turns out and I'm so embarrassed to admit I didn't know this AI is an entire field of study like physics and machine learning is a subfield of AI much like how thermodynamics is a subfield of physics going down another level deep learning is a subset of machine learning and deep learning models can be further broken down into something called discriminative models and generative models large language models llms also fall under deep learning and right at the intersection between generative and llms is the technology that powers the applications we're all familiar with chat gbt and Google bard let me know in the comments if this was news to you as well now that we have an understanding of the overall landscape and you see how the different disciplines sit in relation to each other let's go over the key takeaways you should know for each level in a nutshell machine learning is a program that uses input data to train a model that trained model can then make predictions Based on data it has never seen before for example if you train a model based on Nike sales data you can then use that model to predict how well a new shoe from Adidas would sell based on Adidas sales data two of the most common types of machine learning models are supervised and unsupervised learning models the key difference between the two is supervised models use labeled data and unsupervised models use unlabeled data in this supervised example we have historical data points that plot the total bill amount at a restaurant against the tip amount and here the data is labeled Blue Dot equals the order was picked up and yellow dot equals the order was delivered using a supervised learning model we can now predict how much tip we can expect for the next order given the bill amount and whether it's picked up or delivered for unsupervised learning models we look at the raw data and see if a naturally falls into groups in this example we plotted the employee tenure at a company against their income we see this group of employees have a relatively High income to years work ratio versus this group we can also see all these are unlabeled data if they were labeled we would see male female years worked company function Etc we can now ask this unsupervised learning model to solve a problem like if a new
+====================================================
+====================================================
+Timestamp:
+2026-06-14 21:01:55
+
+Video URL:
+https://youtu.be/qzAHXO-cN5Q?si=EetGPOFXehj5It7l
+
+Topic:
+Ai in hindi
+
+Transcript Length:
+4320
+
+Summary Length:
+4320
+
+Summary Preview:
+सोचिए कि कोई मशीन है जो आपके हिसाब से आपकी अलमारी सेट कर दे या आपके परिवार के हर मेंबर को उनकी पसंद के हिसाब से कॉफी सर्व कर दे बेसिकली आपका हर दिन आसान बना दे है ना यह है आर्टिफिशियल इंटेलिजेंस के प्रोडक्ट्स पर आर्टिफिशियल इंटेलिजेंस टर्म का इस्तेमाल क्यों क्योंकि इन मशीनों में ह्यूमंस जैसी इंटेलिजेंस को आर्टिफिशली इनकॉरपोरेट किया जाता है ताकि वह हमारे जैसे टास्क्स कर सके हर इंटेलिजेंस को कॉम्प्लेक्टेड फंक्शन से बनाया जाता है लेकिन हो सकता है कि एआई पिछले एग्जांपल्स की तरह काम ना करें इनफैक्ट एआई का इस्तेमाल स्मार्टफोंस कार्स सोशल मीडिया फीड्स वीडियो गेम्स बैंकिंग सर्वेस और डेली लाइफ के अलग-अलग हिस्सों में किया जाता है असल सवाल यह है कि एआई क्या करता है यहां एक रोबॉट है जिसे हमने अपनी लैब में बनाया है और अब इसे एक फील्ड में छोड़ दिया गया है लाइटिंग लैंडस्केप और फील्ड के डायमेंशन में वेरिएशन के बावजूद ए रोबॉट को उम्मीद के मुताबिक परफॉर्म करना होगा किसी नई सिचुएशन पर सही तरीके से रिएक्ट करने की क्षमता को जनरलाइज्ड लर्निंग कहा जाता है रोबॉट अब एक चौराहे पर है जहां एक रास्ता पक्का तो दूसरा पथरीला है रोबोट को सिचुएशन के हिसाब से यह तय करना होगा कि कौन सा रास्ता अपनाना है यह रोबॉट की रीजनिंग एबिलिटी को दिखाता है थोड़ी देर टहलने के बाद रोबॉट को अब एक ऐसी नदी का सामना करना पड़ता है जिसे वह तैर कर पार नहीं कर सकता इनपुट के रूप में दिए गए प्लांक का इस्तेमाल करके रोबॉट इस नदी को पार कर सकता है तो हमारा रोबॉट दिए गए इनपुट का इस्तेमाल करता है और किसी समस्या का सॉल्यूशन ढूंढता है इसे प्रॉब्लम सॉल्विंग कहा जाता है ये तीन कैपेबिलिटीज रोबोट को आर्टिफिशियल तरीके से इंटेलिजेंट बनाती हैं इन शॉर्ट एआई मशीनों को अडॉप्ट करने तर्क देने और सलूशन देने की कैपेबिलिटी देता है खैर अब हम जानते हैं कि एआई क्या है तो आइए उन दो ब्रॉड कैटेगरी पर एक नजर डालें जिनमें एआई को बांटा गया है वीक एआई जिसे नैरो एआई भी कहा जाता है सिर्फ एक ही टास्क पर फोकस करता है एग्जांपल के लिए अल्फा गो गेम गो का उस्ताद है लेकिन आप इस बात की रत्ती भर भी उम्मीद नहीं कर सकते कि वह चेस में भी अच्छा हो यह बात अल्फा गो को एक कमजोर यानी वीक एआई बनाता है आप यह कह सकते हैं कि अलेक्सा एक कमजोर एआई नहीं है क्योंकि यह बहुत सारे टास्क कर सकती है खैर यह असल में सच नहीं है जब आप अलेक्सा को प्ले दसपास तो कहते हैं तो वह प्ले औरस पा स तो कीवर्ड चुनती है और एक प्रोग्राम चलाती है जिसके लिए उसे ट्रेन किया जाता है अलेक्सा उस सवाल का जवाब नहीं दे सकती जिसका जवाब देने के लिए उसे ट्रेन नहीं किया गया है फॉर एग्जांपल अलेक्सा से ऑफिस से घर तक ट्रैफिक का हाल पूछे अलेक्सा आपको यह जानकारी नहीं दे सकती क्योंकि वह इसके लिए ट्रेड नहीं है चलिए अब बात करते हैं एआई की दूसरी कैटेगरी की जो कि है स्ट्रंग एआई ये उन रोबोट्स की तरह है जो अब तक सिर्फ हमारी इमेजिनेशन में ही मौजू मजूद है अवेंजर्स का अल्ट्रॉन स्ट्रंग एआई का आइडियल एग्जांपल है ऐसा इसलिए क्योंकि यह सेल्फ अवेयर है और इसमें इमोशंस के डेवलप करने की भी कैपेबिलिटी है इस वजह से एआई का रिस्पांस अनप्रिडिक्टेबल हो जाता है आप सोच रहे होंगे आर्टिफिशियल इंटेलिजेंस मशीन लर्निंग और डीप लर्निंग से कैसे अलग है हमने जाना कि एआई क्या है मशीन लर्निंग एआई हासिल करने की एक टेक्नीक है वहीं डीप लर्निंग मशीन लर्निंग का एक सबसेट है मशीन लर्निंग से मशीन को एल्गोरिदम के जरिए डाटा और एक्सपीरियंस सीखने में मदद मि
+====================================================

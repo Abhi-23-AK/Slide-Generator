@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+PyMuPDF
+pydantic
+python-pptx
+requests
+openai
+python-dotenv
+python-docx
+matplotlib

@@ -1,0 +1,69 @@
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+ActiveState.venv/
+
+# Node modules and build files
+node_modules/
+jspm_packages/
+.npm
+.eslintcache
+.parcel-cache
+.yarn-cache
+.pnpm-store
+dist/
+tmp/
+out/
+build/
+.cache/
+
+# Python cache, compile, and test files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env*
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project-specific temporary / generated files
+temp/
+outputs/
+*.pptx
+*.png
+*.xml
+*.log
+vite-dev.err.log
+vite-dev.log
+
+# Large binaries / applications
+presentation_ai/bin/
+bin/
+
+# Temporary scraped/saved HTML pages
+yt_watch.html
+
+

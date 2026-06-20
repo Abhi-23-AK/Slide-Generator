@@ -1,0 +1,62 @@
+{
+  "slide_count": 1,
+  "theme": {
+    "heading_font": "Calibri",
+    "body_font": "Calibri",
+    "colors": {
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F4E79",
+      "lt2": "#D9E1F2",
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47"
+    },
+    "background_colors": []
+  },
+  "slides": [
+    {
+      "slide_index": 0,
+      "inferred_layout": "content",
+      "zones": [
+        {
+          "shape_id": 2,
+          "name": "Rectangle 1",
+          "shape_type": "AUTO_SHAPE",
+          "shape_type_id": 1,
+          "placeholder_idx": null,
+          "placeholder_type": null,
+          "z_order": 0,
+          "left_pct": 0.0,
+          "top_pct": 0.0,
+          "width_pct": 1.09,
+          "height_pct": 1.46,
+          "rotation": 0.0,
+          "has_text_frame": true,
+          "is_picture": false,
+          "font_name": null,
+          "font_size": null,
+          "font_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "alignment": "center",
+          "line_spacing": null,
+          "space_before": null,
+          "space_after": null,
+          "vertical_anchor": "middle",
+          "word_wrap": null,
+          "capacity": 5,
+          "role": "decorative_2"
+        }
+      ],
+      "column_count": 0,
+      "has_image_placeholder": false,
+      "background_color": "image",
+      "card_groups": []
+    }
+  ]
+}
